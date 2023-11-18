@@ -3,7 +3,7 @@ import time
 from PIL import ImageTk, Image
 
 app = tk.Tk()
-app.title('PopRock')
+app.title('PopMe')
 app.geometry("400x500")
 
 img1 = Image.open('the_rock_2.jpg')
